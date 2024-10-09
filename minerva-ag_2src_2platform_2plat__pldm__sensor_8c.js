@@ -1,0 +1,25 @@
+var minerva_ag_2src_2platform_2plat__pldm__sensor_8c =
+[
+    [ "plat_sensor_vr_extend_info", "structplat__sensor__vr__extend__info.html", "structplat__sensor__vr__extend__info" ],
+    [ "plat_sensor_vr_extend_info", "minerva-ag_2src_2platform_2plat__pldm__sensor_8c.html#ac1b2ee533437aac21d48579015ec173d", null ],
+    [ "find_init_args_by_sensor_id", "minerva-ag_2src_2platform_2plat__pldm__sensor_8c.html#a9a38f24b85ffad089c289104aec1989e", null ],
+    [ "find_vr_addr_by_sensor_id", "minerva-ag_2src_2platform_2plat__pldm__sensor_8c.html#a05ce7b8b6ad373c71e5bb6232340c5cf", null ],
+    [ "is_dc_access", "minerva-ag_2src_2platform_2plat__pldm__sensor_8c.html#a76b882458684c230a1873193f64982e8", null ],
+    [ "LOG_MODULE_REGISTER", "minerva-ag_2src_2platform_2plat__pldm__sensor_8c.html#abf41bdb91a475bd637d603e5a8b83f6c", null ],
+    [ "plat_get_pdr_size", "minerva-ag_2src_2platform_2plat__pldm__sensor_8c.html#a7db23d8cdd045d433f69423e1e91378a", null ],
+    [ "plat_load_aux_sensor_names_pdr_table", "minerva-ag_2src_2platform_2plat__pldm__sensor_8c.html#ae00a172cd4bd7660bffb8403b5cf552f", null ],
+    [ "plat_load_numeric_sensor_pdr_table", "minerva-ag_2src_2platform_2plat__pldm__sensor_8c.html#a9899fad91225258f7cbbe6f9f3018bd7", null ],
+    [ "plat_pldm_sensor_change_ubc_dev", "minerva-ag_2src_2platform_2plat__pldm__sensor_8c.html#ae862a98bb3d1659afe6767e2c41248c3", null ],
+    [ "plat_pldm_sensor_change_vr_addr", "minerva-ag_2src_2platform_2plat__pldm__sensor_8c.html#af4e69ef6eef22db2121189cce42c331e", null ],
+    [ "plat_pldm_sensor_change_vr_dev", "minerva-ag_2src_2platform_2plat__pldm__sensor_8c.html#ac71d31036cd1cc538a7d1bbe1c1882de", null ],
+    [ "plat_pldm_sensor_change_vr_init_args", "minerva-ag_2src_2platform_2plat__pldm__sensor_8c.html#a9404d1eaf457d78457c4f5734d970b1d", null ],
+    [ "plat_pldm_sensor_get_pdr_numeric_sensor", "minerva-ag_2src_2platform_2plat__pldm__sensor_8c.html#a7e5c3683d27b2bb9bcc91ffe78cf4372", null ],
+    [ "plat_pldm_sensor_get_sensor_count", "minerva-ag_2src_2platform_2plat__pldm__sensor_8c.html#a18272dc8dce4f373b85555817c2cc6f3", null ],
+    [ "plat_pldm_sensor_load", "minerva-ag_2src_2platform_2plat__pldm__sensor_8c.html#a0598e5f3f941c5e62a5d827df4bd992f", null ],
+    [ "plat_pldm_sensor_load_thread", "minerva-ag_2src_2platform_2plat__pldm__sensor_8c.html#aa0e1a2196c619548184dabd85a1d9d81", null ],
+    [ "plat_pdr_sensor_aux_names_table", "minerva-ag_2src_2platform_2plat__pldm__sensor_8c.html#a9d2d2a42c90e9d2ebb28fb0dffeef32e", null ],
+    [ "plat_pldm_sensor_temp_table", "minerva-ag_2src_2platform_2plat__pldm__sensor_8c.html#af527375d4b80430d7f7d7e8fb26e066f", null ],
+    [ "plat_pldm_sensor_ubc_table", "minerva-ag_2src_2platform_2plat__pldm__sensor_8c.html#a5a4d878673561f704c1d744794920c06", null ],
+    [ "plat_pldm_sensor_vr_table", "minerva-ag_2src_2platform_2plat__pldm__sensor_8c.html#a6581110a3ec11047a03714e76db57ca7", null ],
+    [ "plat_sensor_vr_extend_table", "minerva-ag_2src_2platform_2plat__pldm__sensor_8c.html#a66dee681657415da98507a80684bdabb", null ]
+];

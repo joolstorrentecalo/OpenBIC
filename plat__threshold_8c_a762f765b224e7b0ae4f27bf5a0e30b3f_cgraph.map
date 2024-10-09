@@ -1,0 +1,13 @@
+<map id="threshold_poll_handler" name="threshold_poll_handler">
+<area shape="rect" id="node1" title=" " alt="" coords="5,157,156,184"/>
+<area shape="rect" id="node2" href="$plat__pwm_8c.html#a7a010a00cf1f6ebb1af4eb561c2e33f4" title=" " alt="" coords="237,5,356,32"/>
+<area shape="rect" id="node4" href="$sensor_8c.html#a76278e0d00225596fd3c4805408ff195" title=" " alt="" coords="211,56,383,83"/>
+<area shape="rect" id="node5" href="$sensor_8c.html#ab9a824489ded146dddedddfb3d2b5a5c" title=" " alt="" coords="204,107,389,133"/>
+<area shape="rect" id="node6" href="$sensor_8c.html#acac7def53ddb6b158196583bb8f36bb1" title=" " alt="" coords="437,187,572,213"/>
+<area shape="rect" id="node9" href="$aalc-rpu_2src_2platform_2plat__sensor__table_8c.html#ab82fd68775171ba556457e5f65b05f8c" title=" " alt="" coords="229,209,364,250"/>
+<area shape="rect" id="node10" href="$plat__threshold_8c.html#a19895fe70819ee247f953ecd5d10f224" title=" " alt="" coords="233,274,360,315"/>
+<area shape="rect" id="node11" href="$aalc-rpu_2src_2platform_2plat__led_8c.html#a551af46446cb05b55f2f8e089d53ff85" title=" " alt="" coords="265,340,329,367"/>
+<area shape="rect" id="node3" href="$plat__pwm_8c.html#a7657bf915a4099d48429505214c701ff" title=" " alt="" coords="447,5,562,32"/>
+<area shape="rect" id="node7" href="$sensor_8c.html#a5cd747a23585d471e06a129bb055b75c" title=" " alt="" coords="622,146,755,187"/>
+<area shape="rect" id="node8" href="$sensor_8c.html#ae224ad26413eb100f2abef7a1907a547" title=" " alt="" coords="620,211,757,253"/>
+</map>

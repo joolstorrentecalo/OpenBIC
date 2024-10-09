@@ -1,0 +1,15 @@
+<map id="emergency_button_action" name="emergency_button_action">
+<area shape="rect" id="node1" title=" " alt="" coords="5,144,176,171"/>
+<area shape="rect" id="node2" href="$plat__pwm_8c.html#a7a010a00cf1f6ebb1af4eb561c2e33f4" title=" " alt="" coords="254,5,373,32"/>
+<area shape="rect" id="node4" href="$aalc-rpu_2src_2platform_2plat__isr_8c.html#a5a965074cd1c8d1c7d45ed046d56ba0d" title=" " alt="" coords="224,56,403,83"/>
+<area shape="rect" id="node6" href="$hal__gpio_8c.html#af700ee50de3d113e223c2b011c41f966" title=" " alt="" coords="278,173,349,200"/>
+<area shape="rect" id="node7" href="$plat__threshold_8c.html#a68297db3899e6b0d73160010fbb1c076" title=" " alt="" coords="246,275,381,301"/>
+<area shape="rect" id="node11" href="$aalc-rpu_2src_2platform_2plat__isr_8c.html#ae24f3e38047e259a7fa83637d50a36c4" title=" " alt="" coords="240,107,387,149"/>
+<area shape="rect" id="node12" href="$plat__threshold_8c.html#a17feccf336ca3626614cb7ecae90472d" title=" " alt="" coords="232,224,395,251"/>
+<area shape="rect" id="node3" href="$plat__pwm_8c.html#a7657bf915a4099d48429505214c701ff" title=" " alt="" coords="460,5,575,32"/>
+<area shape="rect" id="node5" href="$hal__gpio_8c.html#ab1b576cbfd9eddaaf57a5aa5fc383dd1" title=" " alt="" coords="482,64,553,91"/>
+<area shape="rect" id="node8" href="$plat__status_8c.html#a460c66789f33a4f77d05236738c551bb" title=" " alt="" coords="460,275,575,301"/>
+<area shape="rect" id="node9" href="$plat__threshold_8c.html#a2ad1078224a8f4dc172eba16e307a4b6" title=" " alt="" coords="632,199,775,225"/>
+<area shape="rect" id="node10" href="$plat__threshold_8c.html#a763c09f1924de578af9af39758b3c633" title=" " alt="" coords="457,224,577,251"/>
+<area shape="rect" id="node13" href="$plat__threshold_8c.html#a8573846868bf62c4fb02cab52c605c14" title=" " alt="" coords="451,123,584,149"/>
+</map>
